@@ -1,6 +1,9 @@
 # dmart-sales-trends
 # PowerBI Project ( DMart Retail Product Price & Discount Analysis )
 
+<img width="1106" height="730" alt="Screenshot 2025-11-07 104550" src="https://github.com/user-attachments/assets/3d47d681-fee9-4714-81de-df352d49a0d4" />
+
+
 **Project Overview**
 
 This project provides an analytical view of DMart’s retail product pricing, discounts, brand performance, and category distribution. A Power BI dashboard was created to help understand overall product value, total discounts, product category mix, and brand-wise contribution. The dashboard assists retail teams in making data‑driven decisions related to pricing, promotions, and inventory planning.

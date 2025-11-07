@@ -29,25 +29,25 @@ Based on the dashboard data, the dataset includes:
 1.	Compare Which Product Categories Contributes The Most Discount Value 
     Purpose : Find Which category Gives The Highest Total Discount( Greater Than 50k)
 
-   •	This Chart Compares Categories By Sum Of Discount amount
+       •	This Chart Compares Categories By Sum Of Discount amount
 
-   •	Highest discounts are seen in Home & Kitchen (130K) and Personal Care (103K)
+       •	Highest discounts are seen in Home & Kitchen (130K) and Personal Care (103K)
 
-   •	Grocery and Specials categories also have notable discount contribution
+       •	Grocery and Specials categories also have notable discount contribution
 
 3.	Which Category Has The Most Products In Dmart   
     Purpose : Find Which Category Has The Most Or Least Products – Not Discount
 
-   •	This Chart Shows Categories again, but Based on Number of Productss ( Count of Name )
+       •	This Chart Shows Categories again, but Based on Number of Productss ( Count of Name )
 
-   •	Personal Care and Packaged Food categories hold the highest product counts (~1K each).
+       •	Personal Care and Packaged Food categories hold the highest product counts (~1K each).
 
 5.	Which Brand Has The Most Products in Dmart 
     Purpose : Identify the Top 10 Brands with the Products 
  
-   •	Zeel is the top brand with 33 products 
+       •	Zeel is the top brand with 33 products 
  
-   •	Zerobonics (14 products) and Yoga Bar (10 products) follow.
+       •	Zerobonics (14 products) and Yoga Bar (10 products) follow.
  
 **DAX Measures Used**
 
